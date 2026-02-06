@@ -1,0 +1,15 @@
+{
+	"folders": [
+		{
+			"name": "Invitation",
+			"path": ".."
+		},
+		{
+			"name": "Baa'sImages",
+			"path": "../../../OneDrive - Sheridan College/Pictures/Baa'sImages"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Invitation"
+	}
+}
